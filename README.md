@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi 👋 My name is Mukul Aggarwal
 
 <!--
 **MukulAggarwal21/MukulAggarwal21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
