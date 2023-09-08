@@ -1,7 +1,7 @@
 ### Hi 👋 My name is Mukul Aggarwal
-<br>
 <hr>
 # WEB DEVELOPER
+<hr>
 
 
 <!--
