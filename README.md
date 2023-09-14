@@ -2,7 +2,6 @@
 <hr>
 # WEB DEVELOPER
 <hr>
-
 <!--
 **MukulAggarwal21/MukulAggarwal21** is a ✨ _specIal_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
