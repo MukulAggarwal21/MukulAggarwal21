@@ -4,7 +4,7 @@
 <!--
 **MukulAggarwal21/MukulAggarwal21** is a ✨ _specIal_ \✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you sTarted;
+Here are some ideas to get you sTarted
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
