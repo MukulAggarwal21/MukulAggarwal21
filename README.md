@@ -1,9 +1,9 @@
 ### Hi 👋 My name is Mukul Aggarwal 
 ### 
 <hr>
-# WEB DEVELOPER 
+▪️WEB DEVELOPER 
 <br>
-# Skilled web developer with a passion for delivering exceptional user-friendly websites. Committed to delivering results that exceed expectations and drive business success.
+▪️ Skilled web developer with a passion for delivering exceptional user-friendly websites. Committed to delivering results that exceed expectations and drive business success.
 <!--
  
 **MukulAggarwal21/MukulAggarwal21* is a ✨ _specIal_ \✨ epository because its `README.md` (this file) appears on your GitHub profile.
