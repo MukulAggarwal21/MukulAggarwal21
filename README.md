@@ -9,7 +9,7 @@
 <br>
 <h2>✉️  You can contact me at <a href="aggarwalmukul2194@gmail.com">aggarwalmukul2194@gmail.com</a></h2>
 <br>
-<h1>🧠  I'm learning Something new..</h1>
+<h3>🧠  I'm learning Something new..</h3>
 <!--
  
 **MukulAggarwal21/MukulAggarwal21* is a ✨ _specIal_ \✨ epository because its `README.md` (this file) appears on your GitHub profile.
