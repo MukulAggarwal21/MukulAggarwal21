@@ -1,7 +1,7 @@
 ## Hi 👋 My name is Mukul Aggarwal   
 ###   
 <hr>  
-▪️WEB DEVELOPER    
+▪️WEB DEVELOPER      
 <br>   
 ▪️ Skilled web developer with a passion for delivering exceptional user-friendly websites. Committed to delivering results that exceed expectations and drive business success.
 <br>          
