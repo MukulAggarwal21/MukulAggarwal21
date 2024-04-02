@@ -2,7 +2,7 @@
 ###   
 <hr>   
 ▪️WEB DEVELOPER      
-<br>    
+<br>     
 ▪️ Skilled web developer with a passion for delivering exceptional user-friendly websites. Committed to delivering results that exceed expectations and drive business success.
 <br>          
 ⚫🌍<h2> I'm based in New Delhi , India</h2>    
