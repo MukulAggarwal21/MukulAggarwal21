@@ -10,6 +10,7 @@
 <h2>✉️  You can contact me at <a href="aggarwalmukul2194@gmail.com">aggarwalmukul2194@gmail.com</a></h2>
 <br> 
 <h3>🧠  I'm learning Something new..</h3>
+<p>🤝  I'm open to collaborating on Frontend Web Dev Projects</p>
 <!--
  
 **MukulAggarwal21/MukulAggarwal21* is a ✨ _specIal_ \✨ epository because its `README.md` (this file) appears on your GitHub profile.
