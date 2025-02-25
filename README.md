@@ -101,7 +101,6 @@ Feel free to reach out for opportunities, collaborations, or any other inquiries
 
 ## 📄 Resume
 
-[![Resume Badge](https://drive.google.com/file/d/1XDDHLFv-rkUNH87q7lxOTiMTD1qqH9cS/view?usp=sharing)
-
+[![Resume Badge](https://img.shields.io/badge/Download%20Resume-%2300C7B7.svg?style=flat-square&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1XDDHLFv-rkUNH87q7lxOTiMTD1qqH9cS/view?usp=sharing)
 
 ---
